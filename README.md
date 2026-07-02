@@ -6,3 +6,5 @@ It's an archive containing the necessary files and directories, along with a ".P
 You can unzip and pack these archives manually using a zip utility, or a more convenient method – using plpkg utility!.
 
 This package format (and utility) will be used in Progwilinux 26.5 and later.
+
+Also, all software in this repo is packed software from other distros :)
